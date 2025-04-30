@@ -13,4 +13,4 @@ As a result, the null hypothesis is rejected with the following results:
 
 Reference [video](https://www.youtube.com/watch?v=AQC7b68H7LU/t=0)
 
-The dataset and data dictionary can be found [here](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data).
+You can find the dataset and the corresponding data dictionary [here](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data).
