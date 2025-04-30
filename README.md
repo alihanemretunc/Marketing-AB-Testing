@@ -12,3 +12,5 @@ As a result, the null hypothesis is rejected with the following results:
 ![A picture from the code](picture-ab.png)
 
 Reference [video](https://www.youtube.com/watch?v=AQC7b68H7LU/t=0)
+
+The dataset and data dictionary can be found [here](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing/data).
